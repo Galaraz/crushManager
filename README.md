@@ -1,0 +1,2 @@
+# crushManager
+Trybe curse 
