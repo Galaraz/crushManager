@@ -20,6 +20,6 @@ Neste projeto, habilidades Aprendidas:
 - Entender a estrutura de uma aplicação Express e como organizar seu código;
 - Criar rotas e aplicar middlewares.
 ---
-## O que deverá ser desenvolvido
+## O que foi desenvolvido
 
-Você vai desenvolver uma API de um CRUD (**C**reate, **R**ead, **U**pdate e **D**elete) de crushs. Você vai desenvolver alguns endpoints que irão ler e escrever em um arquivo, isso utilizando o módulo `fs`.
+Uma API de um CRUD (**C**reate, **R**ead, **U**pdate e **D**elete) de crushs. Alguns endpoints que irão ler e escrever em um arquivo, isso utilizando o módulo `fs`.
