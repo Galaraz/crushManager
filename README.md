@@ -1,5 +1,5 @@
 # Boas vindas ao repositório do Crush Manager!
-Trybe curse 
+ Creditos- Trybe curse 
 
 
 # Habilidades
