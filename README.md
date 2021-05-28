@@ -2,9 +2,7 @@
  Creditos- Trybe curse 
 
 
-# Habilidades
-
-Neste projeto, habilidades Aprendidas:
+# Habilidades Aprendidas
 
 - Realizar operações assíncronas utilizando callbacks;
 - Realizar operações assíncronas utilizando Promises;
