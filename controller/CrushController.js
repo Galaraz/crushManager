@@ -1,9 +1,9 @@
-const { readCrushFile, writeCrushFile } = require('../model/CrushModel');
+const { readCrushFile, writeCrushFile,getsupabase } = require('../model/CrushModel');
 
 const getAllCrushs = async (_req, res) => {
   console.log('[CRUSH CONTROLLER] : CHAMOU O MÉTODO BUSCAR CRUSHS');
   try {
-    const result = await readCrushFile();
+    const result = await getsupabase();
     return res.status(200).json(result);
   } catch (error) {
     console.log(`[CRUSH CONTROLLER] : buscarTodos => ${error}`);
